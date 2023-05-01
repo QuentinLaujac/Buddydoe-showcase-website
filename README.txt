@@ -1,59 +1,49 @@
+# Buddydoe
 
-TITLE: 
-Outline - Responsive Free HTML5 template
+Buddydoe is a platform that allows hotel guests to connect with each other and plan activities together during their stay. With Buddydoe, guests can easily find and join activities such as going to the movies, bowling, or watching a football game with other guests at their hotel.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
+## Status
 
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+This project is no longer actively maintained.
 
+## Features
 
-CREDITS:
+- Quick and easy setup: Guests can input their dates of stay and hotel information in under 20 seconds.
+- Discover nearby activities: Guests can browse a list of activities planned by other guests or propose their own activity to join.
+- Easy communication: Guests can communicate with each other to organize and plan their activities.
+- Rating system: Guests can evaluate their experience and provide feedback on other participants.
+- Safe and secure: Buddydoe features filters and criteria to help guests choose who they want to spend their time with.
 
-Bootstrap
-http://getbootstrap.com/
+## How to Use
 
-jQuery
-http://jquery.com/
+1. Input your dates of stay and hotel information.
+2. Browse activities planned by other guests or propose your own activity to join.
+3. Communicate with other guests to plan and organize your activity.
+4. Attend your planned activity and have fun!
+5. Provide feedback and ratings on your experience and other participants.
 
-Images
-http://pexels.com/
+## Buddydoe Ambassador Program
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+Frequent guests who become familiar with their hotel and local area can become Buddydoe Ambassadors. These ambassadors can create and plan activities for other guests and become part of Buddydoe's loyalty program.
 
-Modernizr
-http://modernizr.com/
+## Technology Used
 
-Google Fonts
-https://www.google.com/fonts/
+Buddydoe was built using:
 
-Icomoon Entypo
-https://icomoon.io/app/
-http://www.entypo.com/
+- React Native for mobile development
+- Firebase for backend services
+- Google Maps API for location services
 
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
+## Contributions
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+Contributions to Buddydoe are welcome and appreciated! To contribute, follow these steps:
 
-countTo JS
-https://github.com/mhuggins/jquery-countTo
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with clear and concise commit messages.
+4. Push your changes to your forked repository.
+5. Create a pull request to have your changes reviewed and merged.
 
-animate.css
-http://daneden.me/animate
+## Contact Us
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Owl Carousel 2
-http://www.owlcarousel.owlgraphic.com/
-
-
-
+If you have any questions, comments, or concerns about Buddydoe, please don't hesitate to contact us at [contact@buddydoe.com](mailto:contact@buddydoe.com).
